@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    background-color: #040404;
+    /* background-color: transparent;
+    z-index: -70px; */
+}
+
+.navlogo {
+    height: 50px;
+    cursor: pointer;
+}
